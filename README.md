@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! Bienvenido al NTT DATA CHALLENGE 2022 Edición II</h1>
-<h3 align="center">En este espacio podrán agregar todos los entregables de la 2da. edición del Hackathon NTT DATA CHALLENGE 2022</h3>
+<h1 align="center">¡Hola! Bienvenido al HACKATHON Inteligencia Artificial GPT-4</h1>
+<h3 align="center">En este espacio podrán agregar todos los entregables de la edicioón 2023</h3>
 
 <h4>Entregables:</h4>
 <h4>📝 Video resumen describiendo lo siguiente:</h4>
@@ -14,7 +14,7 @@
 <h4>  💬 Cada líder de equipo tendrá acceso al repositorio del equipo, en caso de requerir algún acceso adicional debe ser notificado a los mentores a través de Discord.</h4>
 
 
-<h4>- Acá podrán seguir las conferencias (https://www.nttdatachallenge2022.com/)</h4>
+<h4>- Acá podrán seguir las referencias (https://hackathon.nttdata.com.pe/)</h4>
 
 
 <h3 align="left">Connect with me:</h3>
