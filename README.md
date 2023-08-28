@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Bienvenido al HACKATHON Inteligencia Artificial GPT-4</h1>
-<h3 align="center">En este espacio podrán agregar todos los entregables de la edicioón 2023</h3>
+<h3 align="center">En este espacio podrán agregar todos los entregables de la edición 2023</h3>
 
 <h4>Entregables:</h4>
 <h4>📝 Video resumen describiendo lo siguiente:</h4>
