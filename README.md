@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! Bienvenido al NTT DATA Hackathon Data & Analytics</h1>
-<h3 align="center">En este espacio podrán agregar todos los entregables de la edición 2023</h3>
+<h3 align="center">En este espacio podrán agregar todos los entregables de la edición 2024</h3>
 
 <h4>Entregables:</h4>
+<h4>    o PPT de presentación de solución planteada.</h4>
 <h4>📝 Video resumen describiendo lo siguiente:</h4>
 <h4>    o Breve presentación del equipo.</h4>
 <h4>    o Resumen del concepto de solución (Qué hace y a quién impacta)</h4>
